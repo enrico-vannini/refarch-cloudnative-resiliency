@@ -1,4 +1,4 @@
-# Connecting BlueMix VPN Service to SoftLayer Vyatta Gateway
+#### Connecting BlueMix VPN Service to SoftLayer Vyatta Gateway
 
 In the examples shown here, the BlueMix VPN Service is used to connect the container network to SoftLayer VMs that represent on-premise resources.  Follow these instructions to set up an IPSec tunnel between BlueMix and a Vyatta Gateway Appliance running in SoftLayer.
 
